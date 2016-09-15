@@ -1,0 +1,8 @@
+You are now entering the Asteroid belt.
+We are sensing fragment crystals at your current location.
+A Guardian should be very close by if our calculations are correct.
+However, for the time being you need to make sure you do not touch those asteroids.
+Good luck.
+
+You made it through the Asteroids....
+But it doesn't look like the end yet!

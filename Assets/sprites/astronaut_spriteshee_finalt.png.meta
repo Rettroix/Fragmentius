@@ -1,0 +1,149 @@
+fileFormatVersion: 2
+guid: 4761ff6b8af47314db314ac37ddc9d66
+timeCreated: 1469213131
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: astronaut_spriteshee_finalt_0
+    21300002: astronaut_spriteshee_finalt_1
+    21300004: astronaut_spriteshee_finalt_2
+    21300006: astronaut_spriteshee_finalt_3
+    21300008: astronaut_spriteshee_finalt_4
+    21300010: astronaut_spriteshee_finalt_5
+    21300012: astronaut_spriteshee_finalt_6
+    21300014: astronaut_spriteshee_finalt_7
+    21300016: astronaut_spriteshee_finalt_8
+    21300018: astronaut_spriteshee_finalt_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: astronaut_spriteshee_finalt_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 163
+        width: 121
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 38}
+        - {x: -60.5, y: -9}
+        - {x: -60.5, y: -22}
+        - {x: -57.5, y: -22}
+        - {x: -52.5, y: -19}
+        - {x: -30.5, y: -36}
+        - {x: -19.5, y: -35}
+        - {x: -17.5, y: -31}
+        - {x: -15.5, y: -35}
+        - {x: -13.5, y: -38}
+        - {x: 39.5, y: -38}
+        - {x: 60.5, y: -26}
+        - {x: 60.5, y: 2}
+        - {x: 19.5, y: 38}
+    - name: astronaut_spriteshee_finalt_1
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 163
+        width: 115
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 38}
+        - {x: -57.5, y: -6}
+        - {x: -57.5, y: -26}
+        - {x: -44.5, y: -38}
+        - {x: 57.5, y: -38}
+        - {x: 57.5, y: -7}
+        - {x: 47.5, y: 6}
+        - {x: 14.5, y: 38}
+    - name: astronaut_spriteshee_finalt_2
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 25
+        width: 109
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 37.5}
+        - {x: -54.5, y: -5.5}
+        - {x: -54.5, y: -26.5}
+        - {x: -47.5, y: -37.5}
+        - {x: 54.5, y: -37.5}
+        - {x: 54.5, y: 19.5}
+        - {x: 16.5, y: 37.5}
+    - name: astronaut_spriteshee_finalt_3
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 25
+        width: 107
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.5, y: -29.5}
+        - {x: -30.5, y: -37.5}
+        - {x: 27.5, y: -37.5}
+        - {x: 53.5, y: -33.5}
+        - {x: 53.5, y: -12.5}
+        - {x: 46.5, y: 13.5}
+        - {x: 31.5, y: 37.5}
+        - {x: -18.5, y: 37.5}
+        - {x: -53.5, y: 15.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
