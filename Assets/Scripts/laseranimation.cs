@@ -30,7 +30,7 @@ public class laseranimation : MonoBehaviour {
 
             if (startTimer == true) 
             {
-                timerTextState (200);
+                //timerTextState (200);
             }
 
         }
@@ -50,7 +50,7 @@ public class laseranimation : MonoBehaviour {
             timer++;
             if (timer > forTime) 
             {
-                dialogueScript.textState = -6;
+                //dialogueScript.textState = -6;
             }
         }
     }

@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{B2A91B48-688C-A1DD-AFE7-9A193D33BCE5}") = "Fragmentius", "Assembly-CSharp-firstpass.csproj", "{DDA11A95-6A38-2E34-84F8-D3517357C413}"
+EndProject
+Project("{B2A91B48-688C-A1DD-AFE7-9A193D33BCE5}") = "Fragmentius", "Assembly-CSharp.csproj", "{429333C8-D52E-5602-FF18-3189F85A486B}"
+EndProject
+Project("{B2A91B48-688C-A1DD-AFE7-9A193D33BCE5}") = "Fragmentius", "Assembly-CSharp-Editor.csproj", "{189107D4-FAD1-6D7D-56E1-3E3427F859C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDA11A95-6A38-2E34-84F8-D3517357C413}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDA11A95-6A38-2E34-84F8-D3517357C413}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDA11A95-6A38-2E34-84F8-D3517357C413}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDA11A95-6A38-2E34-84F8-D3517357C413}.Release|Any CPU.Build.0 = Release|Any CPU
+		{429333C8-D52E-5602-FF18-3189F85A486B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{429333C8-D52E-5602-FF18-3189F85A486B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{429333C8-D52E-5602-FF18-3189F85A486B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{429333C8-D52E-5602-FF18-3189F85A486B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{189107D4-FAD1-6D7D-56E1-3E3427F859C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{189107D4-FAD1-6D7D-56E1-3E3427F859C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{189107D4-FAD1-6D7D-56E1-3E3427F859C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{189107D4-FAD1-6D7D-56E1-3E3427F859C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
